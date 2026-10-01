@@ -22,8 +22,9 @@ I'm passionate about **Data Science, and Data Analytics**. I enjoy andl-world pr
 
 # 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamzads077)
-[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamza.ds.077@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassan-shakeel-3a65832b2?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rh576078@gmail.com
+https://myaccount.google.com/embedded/google-account-email?hl=en_GBlto:)
 
 ---
 
