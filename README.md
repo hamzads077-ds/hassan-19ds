@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Hamza Shah</h1>
+<h1 align="center">Hi 👋, I am Hassan Shakeel </h1>
 
 <h3 align="center">Statistical Data Science Student | Aspiring Data Scientist</h3>
 
@@ -12,13 +12,11 @@
 
 I'm an undergraduate student pursuing a **Bachelor's in Statistical Data Science** at the **International Islamic University Islamabad**.
 
-I'm passionate about **Data Science, Artificial Intelligence, and Data Analytics**. I enjoy solving real-world problems through programming and continuously improving my technical skills by building practical projects.
+I'm passionate about **Data Science, and Data Analytics**. I enjoy andl-world problems through programming and continuously improving my technical skills by building practical projects.
 
 * 🎓 Statistical Data Science Student
-* 🐍 Learning Python & Database Management (SQL)
-* 📊 Interested in Data Analytics, Machine Learning & AI
-* 🚀 Building projects and improving every day
-* ⚡ Goal: Become a Data Scientist
+* 🐍 Learning Database Management (SQL)
+* 📊 Interested in Data Analyti Analyticne Learning🚀 Building projects and improving every daevery Goal: Become a Data Scientist
 
 ---
 
@@ -33,13 +31,11 @@ I'm passionate about **Data Science, Artificial Intelligence, and Data Analytics
 
 ### Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Tools & Environments
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -54,11 +50,7 @@ I'm passionate about **Data Science, Artificial Intelligence, and Data Analytics
 ---
 
 # 🎯 Areas of Interest
-
-* 🎓 Statistical Data Science
-* 🤖 Artificial Intelligence
-* 📊 Data Analytics
-* 🧠 Machine Learning
+*👝Machine Learning
 * 💡 Problem Solving
 * 🌐 Open Source
 
@@ -66,10 +58,10 @@ I'm passionate about **Data Science, Artificial Intelligence, and Data Analytics
 
 # 💡 Quote
 
-> *"Data is the new oil, but like oil, it's useless unless it's refined. Keep learning, keep refining!"* 🚀
+> *"Keep learning. Keep Growing! "* 🚀
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hamzads077-ds&style=for-the-badge&color=blue&v=1" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=hassan-19ds&style=for-the-badge&color=blue&v=1bluet="Profile Views" />
 </p>
